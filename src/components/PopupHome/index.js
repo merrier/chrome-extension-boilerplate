@@ -8,7 +8,10 @@ class PopupHome extends Component {
 
     render () {
         return (
-            <div className='popup-home'>Component PopupHome</div>
+            <div className='popup-home'>
+                <p>Component PopupHome</p>
+                <p>You can find me at src/components/PopupHome</p>
+            </div>
         );
     }
 }

@@ -8,7 +8,10 @@ class PopupDetail extends Component {
 
     render () {
         return (
-            <div className='popup-detail'>Component PopupDetail</div>
+            <div className='popup-detail'>
+                <p>Component PopupDetail</p>
+                <p>You can find me at src/components/PopupDetail</p>
+            </div>
         )
     }
 }
