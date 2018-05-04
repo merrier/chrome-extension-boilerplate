@@ -1,0 +1,14 @@
+{
+  "plugins": ["react"],
+  "rules": {
+    "no-console": "off",
+    "no-empty-function": "off",
+    "operator-linebreak": "off",
+    "react/display-name": "off"
+  },
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
+  "extends": ["plugin:react/recommended"],
+  "parser": "babel-eslint"
+}
