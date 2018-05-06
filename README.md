@@ -67,6 +67,7 @@ ApiCall({ key: secrets.key });
 
 - [ ] redux
 - [ ] webpack dev server
+- [ ] use `copy-webpack-plugin` to generates the manifest file using the package.json informations
 
 ## License
 
