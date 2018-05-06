@@ -8,7 +8,7 @@ This repro is built under the inspiration of [chrome-extension-webpack-boilerpla
 * All the libraries used are the latest version:
     > webpack v4, react v15
 * Support less
-* A more standard directory structure
+* A more standard directory structure
 
 ## Use
 
@@ -65,8 +65,8 @@ ApiCall({ key: secrets.key });
 
 ## Todo
 
-- [x] redux
-- [x] webpack dev server
+- [ ] redux
+- [ ] webpack dev server
 
 ## License
 
