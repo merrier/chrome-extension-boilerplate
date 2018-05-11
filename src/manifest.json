@@ -1,7 +1,7 @@
 {
-  "name": "Chrome Extension Webpack",
+  "name": "Chrome Extension Boilerplate",
   "version": "0.0.1",
-  "description": "BootCDN扩展程序",
+  "description": "chrome extension boilerplate used webpack & react",
   "options_page": "options.html",
   "background": {
     "page": "background.html"
