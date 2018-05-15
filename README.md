@@ -1,6 +1,6 @@
 # Chrome Extension Boilerplate
 
-A basic foundation boilerplate for rich Chrome Extensions.
+A basic foundation boilerplate for rich Chrome Extensions. [中文文档](./README_cn.md)
 
 ## Features
 This repro is built under the inspiration of [chrome-extension-webpack-boilerplate](https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate),but has some extra & useful features:
@@ -67,7 +67,7 @@ ApiCall({ key: secrets.key });
 
 - [ ] redux
 - [ ] webpack dev server
-- [ ] use `copy-webpack-plugin` to generates the manifest file using the package.json informations
+- [ ] use `copy-webpack-plugin` to generates the manifest file using the `package.json` informations
 
 ## License
 
